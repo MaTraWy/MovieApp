@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pref_type_options">
+        <item>@string/pref_type_label_Popular_Label</item>
+        <item>@string/pref_type_label_TopRated_Label</item>
+        <item>@string/pref_type_label_Favourit_Label</item>
+        <item>@string/pref_type_label_ALL_Label</item>
+    </string-array>
+
+    <string-array name="pref_type_values">
+        <item>@string/pref_type_label_Popular</item>
+        <item>@string/pref_type_label_TopRated</item>
+        <item>@string/pref_type_label_Favourit</item>
+        <item>@string/pref_type_label_ALL</item>
+    </string-array>
+</resources>

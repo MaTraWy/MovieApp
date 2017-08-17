@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">StageOne</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_refresh">Refresh</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_details">Details</string>
+
+    <string name="pref_type_label">Sort Type</string>
+    <string name="pref_type_key" translatable="false">type</string>
+    <string name="pref_type_label_Popular_Label">Popular</string>
+    <string name="pref_type_label_TopRated_Label">Top rated</string>
+    <string name="pref_type_label_Favourit_Label">Favourite</string>
+    <string name="pref_type_label_ALL_Label">All</string>
+
+    <string name="pref_type_label_Popular">popular</string>
+    <string name="pref_type_label_TopRated">top_rated</string>
+    <string name="pref_type_label_Favourit">Favourite</string>
+    <string name="pref_type_label_ALL">all</string>
+
+    <string name="pref_type_default">popular</string>
+
+
+
+
+</resources>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal">
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/container"
+    android:layout_width="0dp"
+    android:layout_weight="0.4"
+    android:layout_height="match_parent"
+    android:paddingRight="4dp"
+    tools:context="com.matrawy.a7oda.Final_Project.MainActivity">
+</FrameLayout>
+    <View
+        android:layout_width="15dp"
+        android:paddingRight="8dp"
+        android:paddingLeft="8dp"
+        android:layout_height="match_parent"
+        android:background="@android:color/holo_blue_dark"/>
+    <FrameLayout android:layout_width="0dp"
+        android:layout_weight="0.6"
+        android:layout_height="match_parent"
+        android:paddingLeft="5dp"
+        android:id="@+id/Detail_Main"
+        xmlns:android="http://schemas.android.com/apk/res/android" />
+</LinearLayout>
